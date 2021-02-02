@@ -1,0 +1,1 @@
+This is a simple script used to learn about bash programming. This script variable decl.,diff. parenthesis, arithmatic in bash, condition st. , loops.   
