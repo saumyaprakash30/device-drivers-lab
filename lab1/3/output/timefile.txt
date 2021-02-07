@@ -162,3 +162,13 @@ sys	0m0.030s
 startTime: Sunday 07 February 2021 10:54:57 AM IST
 endTime: Sunday 07 February 2021 10:54:59 AM IST
 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10950  100 10950    0     0   6456      0  0:00:01  0:00:01 --:--:--  6452
+
+real	0m2.000s
+user	0m0.062s
+sys	0m0.033s
+startTime: Sunday 07 February 2021 03:18:18 PM IST
+endTime: Sunday 07 February 2021 03:18:20 PM IST
+

@@ -5,6 +5,10 @@ We could find running daemons by searching for processes which run without a con
 $ ps -eo 'tty,pid,comm' | grep ^?
 ```
 The tty output field contains "?" when the process has no controlling terminal. 
+
+## Files
+* 1_output.txt - Contains output of the above cmd.
+* result.txt - Contain detail about daemon processes
 # Daemon Process in my system
 Using above command, listing some daemon processes
 
