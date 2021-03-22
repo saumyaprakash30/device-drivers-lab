@@ -8,16 +8,27 @@ Writing a C program, compiling it as module, inserting into kernel, checking mes
 In order to compile and build the hello module; we need to create a **Makefile**.
 
 # how to run
-```$ sudo make```
+```
+$ sudo make
+```
+
 This will compile and build c program. and generates object and kernel object files. We will inly use **.ko** file for loading the driver module.
 screenshot after make.
+
+
 ![screenshot](https://github.com/saumyaprakash30/device-drivers-lab/blob/master/lab2/5/make.png)
 
-```$ insmod helloWorld.ko```
+```
+$ insmod helloWorld.ko
+```
 This is used to load module in kernel.
-```$ rmmod helloWorld```
+```
+$ rmmod helloWorld
+```
 This will remove module from kernel.
-```$ dmesg |tail```
+```
+$ dmesg |tail
+```
 This will generate last 10 lines of log file where we can see the output of program.
 # Output Screenshot
 ![screenshot](https://github.com/saumyaprakash30/device-drivers-lab/blob/master/lab2/5/output.png)
