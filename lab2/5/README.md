@@ -33,5 +33,7 @@ This will generate last 10 lines of log file where we can see the output of prog
 # Output Screenshot
 ![screenshot](https://github.com/saumyaprakash30/device-drivers-lab/blob/master/lab2/5/output.png)
 # Files
-* script.sh - contains bash command
-* IMG20210322103817.jpg - ScreenShot of output
+* helloWorld.c - c program
+* MakeFile - use to compile and build kernel object
+* output.png - ScreenShot of output
+* make.png - ScreenShot after make command.
