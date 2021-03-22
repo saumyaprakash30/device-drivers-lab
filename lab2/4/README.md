@@ -17,7 +17,7 @@ This command will attach my external mouse(i.e id=14) to newly created master(id
 Now you can see two pointers on monitor.
 
 # Screenshot
-![screenshot](https://github.com/saumyaprakash30/device-drivers-lab/tree/master/lab2/4/Screenshot from 2021-03-22 10-28-07.png)
+![screenshot](https://github.com/saumyaprakash30/device-drivers-lab/blob/master/lab2/4/Screenshot%20from%202021-03-22%2010-28-07.png)
 # Files
 * script.sh - contains bash command
 * output.png - ScreenShot of output
