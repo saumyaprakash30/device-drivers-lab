@@ -1,0 +1,1 @@
+cmd_/mnt/500C98340C981756/IIITDM/sem8/dd/sub/lab2/6/charDriver.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /mnt/500C98340C981756/IIITDM/sem8/dd/sub/lab2/6/charDriver.ko /mnt/500C98340C981756/IIITDM/sem8/dd/sub/lab2/6/charDriver.o /mnt/500C98340C981756/IIITDM/sem8/dd/sub/lab2/6/charDriver.mod.o;  true
