@@ -14,7 +14,5 @@ $ sudo ./a.out
 # Output Screenshot
 ![screenshot](https://github.com/saumyaprakash30/device-drivers-lab/blob/master/lab3/7/output.png)
 # Files
-* helloWorld.c - c program
-* MakeFile - use to compile and build kernel object
+* main.c - c program
 * output.png - ScreenShot of output
-* make.png - ScreenShot after make command.
