@@ -1,0 +1,1 @@
+cmd_/mnt/500C98340C981756/IIITDM/sem8/dd/endsem/integer_parameter.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /mnt/500C98340C981756/IIITDM/sem8/dd/endsem/integer_parameter.ko /mnt/500C98340C981756/IIITDM/sem8/dd/endsem/integer_parameter.o /mnt/500C98340C981756/IIITDM/sem8/dd/endsem/integer_parameter.mod.o;  true
