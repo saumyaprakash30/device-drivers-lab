@@ -3,6 +3,7 @@
 Write a module which prints your name in log.
 # Explaination
 ```module_init()```  which will get executed at the time of loading the driver
+
 ```module_exit()``` which will get executed at the time when driver gets exited.
 
 In order to compile and build the hello module; we need to create a **Makefile**.
@@ -33,6 +34,6 @@ This will remove module from kernel.
 ![screenshot](https://github.com/saumyaprakash30/device-drivers-lab/blob/master/endsem/b/output.png)
 
 # Files
-* integer_parameter.c - c program
+* main.c - c program
 * MakeFile - use to compile and build kernel object
 * output.png - ScreenShot of output

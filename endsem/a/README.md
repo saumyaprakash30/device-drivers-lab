@@ -3,7 +3,9 @@
 Write a module that can take an integer parameter when it is loaded with insmod command.
 # Explaination
 ```module_init()```  which will get executed at the time of loading the driver
+
 ```module_exit()``` which will get executed at the time when driver gets exited.
+
 ```module_param(name,type,permission)``` This is a macro and it takes three parameter. The first parameter is command line parameter name. The second parameter is type of command line parameter which can be int, uint, short, ushort, byte etc. The third parameter specifies the permissions to change command line parameter's value via sys file system. 
 
 In order to compile and build the hello module; we need to create a **Makefile**.
