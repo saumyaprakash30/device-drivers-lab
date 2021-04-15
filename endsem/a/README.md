@@ -21,7 +21,7 @@ screenshot after make.
 
 
 ```
-$ insmod integer_parameter.ko
+$ insmod integer_parameter.ko num=220
 ```
 This is used to load module in kernel.
 ```
